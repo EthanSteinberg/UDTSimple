@@ -1,0 +1,10 @@
+CMakeFiles
+cmake_install.cmake
+UDTCli
+UDTSer
+Makefile
+dist
+CMakeCache.txt
+*.swp
+*.a
+!lib/*
