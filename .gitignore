@@ -8,3 +8,4 @@ CMakeCache.txt
 *.swp
 *.a
 !lib/*
+!32bit/*
